@@ -4,14 +4,14 @@
 --------------------------------------------------------
 ### _C 21 июля накопительный счет "Накопилка" более недоступен для открытия и переведён в архив_
 
-![Proof](screenshots/Screenshot 2.png)
+![Proof](screenshots/Screenshot1.png)
 
 ---------------------------------------------------------
 
 ## Позитивные сценарии (HappyPath):
 
 ### _Ввод валидных данных через меню "Вклады"_
-![Proof](screenshots/Screenshot3.png)
+![Proof](screenshots/Screenshot2.png)
 
 1. Перейти на сайт https://alfabank.ru
 2. Нажать на вкладку "Вклады" 
@@ -29,6 +29,7 @@
 - Вклад уже занесён в архивные "Архивные счета и депозиты".
 
 ![Proof](screenshots/Screenshot1.png)
+![Proof](screenshots/Screenshot3.png)
 
 1. Перейти на сайт https://alfabank.ru
 2. Нажать на вкладку "Частным лицам" 
